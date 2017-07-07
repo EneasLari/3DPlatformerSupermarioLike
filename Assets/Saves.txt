@@ -1,0 +1,32 @@
+Coins 25
+Lifes 0
+Score 2
+Level RobotLevel1
+Position (68.1, -14.4, 0.1)
+Collected Items
+Coin (16)
+Coin (11)
+Coin (15)
+Coin (12)
+Coin (14)
+Coin (13)
+Coin (17)
+Coin (18)
+Coin (19)
+Coin
+Coin (1)
+Coin (2)
+Coin (4)
+Coin (5)
+Coin (6)
+Coin (7)
+Coin (7)
+Coin (25)
+Coin (8)
+Coin (20)
+Coin (31)
+Coin (22)
+Coin (26)
+Coin (27)
+Coin (28)
+End of Collected Items
